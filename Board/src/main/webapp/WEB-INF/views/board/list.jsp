@@ -21,9 +21,9 @@
 <tbody>
 <tr>
 <td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
+<td>title</td>
+<td>2020/12/15</td>
+<td>6000</td>
 </tr>
 
 </tbody>
